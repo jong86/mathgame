@@ -1,10 +1,7 @@
 require 'pry'
-require_relative './game.rb'
-require_relative './player.rb'
-require_relative './question.rb'
-
-module MathGame
-end
+require './game.rb'
+require './player.rb'
+require './question.rb'
 
 game = MathGame::Game.new
 game.play
