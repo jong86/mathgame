@@ -1,1 +1,1 @@
-A simple 2 player command line math game made with Ruby.
+A simple 2-player CLI-based math game made with Ruby.
